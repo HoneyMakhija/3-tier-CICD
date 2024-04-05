@@ -1,1 +1,2 @@
-# 3-tier-CICD
+# 3-tier-CI-CD
+
