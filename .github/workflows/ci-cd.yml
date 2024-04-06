@@ -7,6 +7,7 @@ on:
       - master
       - dev
       - testing
+      - feature/baseapp
 
 # permissions:
 #   id-token: write
@@ -42,5 +43,3 @@ jobs:
           cd task-manager-backend 
           ls | cat simplefile.txt
           npm install
-
-      
