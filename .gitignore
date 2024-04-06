@@ -3,3 +3,4 @@ kubernetes_manifests/mongo.yaml
 README.md
 docker-compose.yml
 kubernetes_manifests/mongo.yaml
+.env
