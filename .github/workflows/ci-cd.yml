@@ -6,7 +6,7 @@ on:
       - workflow_dispatch
       - master
       - dev
-      - testing
+   
 
 # permissions:
 #   id-token: write
@@ -43,4 +43,14 @@ jobs:
           ls | cat simplefile.txt
           npm install
 
-      
+      - name: Run frontend unit Tests
+        run: |
+          cd task-manager-frontend 
+            echo "MONGODB_URL=${{ secrets.MONGODB_URL }}" > .env 
+            npm test
+
+      - name: Run frontend unit Tests
+        run: |
+          cd task-manager-backend
+            echo "MONGODB_URL=${{ secrets.MONGODB_URL }}" > .env 
+            npm test
