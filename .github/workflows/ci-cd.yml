@@ -49,7 +49,7 @@ jobs:
             echo "MONGODB_URL=${{ secrets.MONGODB_URL }}" > .env 
             npm test
 
-      - name: Run frontend unit Tests
+      - name: Run backend unit Tests
         run: |
           cd task-manager-backend
             echo "MONGODB_URL=${{ secrets.MONGODB_URL }}" > .env 
