@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_reorder.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/reorder.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_person.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/person.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_film.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/film.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_enqueue.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/enqueue.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_airplane.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/airplane.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_color_palette.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/color_palette.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_chevron_up.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/chevron_up.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_star.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/star.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_add.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/add.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_bookmark_outline.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/bookmark_outline.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_chevron_back.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/chevron_back.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_disc.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/disc.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_shuffle.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/shuffle.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_information.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/information.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_pause.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/pause.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_heart_outline.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/heart_outline.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_ellipsis_vertical.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/ellipsis_vertical.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_share_social.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/share_social.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_chevron_down.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/chevron_down.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-xhdpi_ic_banner.png.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-xhdpi/ic_banner.png"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_sort.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/sort.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_trending.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/trending.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_play.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/play.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_app_icon.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/app_icon.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_heart_dislike.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/heart_dislike.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_calendar.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/calendar.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_arrow_up.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/arrow_up.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_heart.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/heart.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_chevron_forward.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/chevron_forward.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_server.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/server.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_download.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/download.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_infinite.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/infinite.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_text.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/text.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_alert_circle.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/alert_circle.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_arrow_forward.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/arrow_forward.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/font_poppins_w500.ttf.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/font/poppins_w500.ttf"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_arrow_down.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/arrow_down.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_search.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/search.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/font_poppins_w600.ttf.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/font/poppins_w600.ttf"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_trash.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/trash.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/font_poppins_w700.ttf.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/font/poppins_w700.ttf"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_pencil.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/pencil.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_shapes.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/shapes.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_notifications.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/notifications.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_alarm.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/alarm.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_checkmark.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/checkmark.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_bookmark.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/bookmark.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_close.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/close.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_medical.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/medical.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/font_poppins_w400.ttf.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/font/poppins_w400.ttf"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_library.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/library.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/xml_automotive_app_desc.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/xml/automotive_app_desc.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/font_poppins_w300.ttf.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/font/poppins_w300.ttf"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_radio.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/radio.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_ellipsis_horizontal.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/ellipsis_horizontal.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_ic_banner_foreground.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/ic_banner_foreground.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_time.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/time.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_link.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/link.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_play_skip_back.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/play_skip_back.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_musical_notes.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/musical_notes.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_sync.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/sync.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_playlist.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/playlist.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_sparkles.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/sparkles.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/mipmap-anydpi-v26_ic_banner.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/mipmap-anydpi-v26/ic_banner.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_equalizer.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/equalizer.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_globe.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/globe.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.vimusic.app-merged_res-41:/drawable_play_skip_forward.xml.flat",
+        "source": "it.vfsfitvnm.vimusic.app-main-43:/drawable/play_skip_forward.xml"
+    }
+]

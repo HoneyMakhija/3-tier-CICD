@@ -1,0 +1,19 @@
+package it.vfsfitvnm.vimusic.ui.screens.searchresult;
+
+import java.lang.System;
+
+@kotlin.Metadata(mv = {1, 7, 1}, k = 2, d1 = {"\u0000Z\n\u0000\n\u0002\u0010\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u000e\n\u0000\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0003\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\b\n\u0002\b\u0003\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\u001a\u00fd\u0001\u0010\u0000\u001a\u00020\u0001\"\b\b\u0000\u0010\u0002*\u00020\u00032\u0006\u0010\u0004\u001a\u00020\u000525\b\u0004\u0010\u0006\u001a/\u0012 \u0012\u001e\u0012\u0004\u0012\u00020\u0001\u0018\u00010\b\u00a2\u0006\u0002\b\t\u00a2\u0006\f\b\n\u0012\b\b\u000b\u0012\u0004\b\b(\f\u0012\u0004\u0012\u00020\u00010\u0007\u00a2\u0006\u0002\b\t2$\b\u0004\u0010\r\u001a\u001e\u0012\u0004\u0012\u00020\u000f\u0012\u0004\u0012\u0002H\u0002\u0012\u0004\u0012\u00020\u00010\u000e\u00a2\u0006\u0002\b\t\u00a2\u0006\u0002\b\u00102\u0013\b\b\u0010\u0011\u001a\r\u0012\u0004\u0012\u00020\u00010\b\u00a2\u0006\u0002\b\t2\b\b\u0002\u0010\u0012\u001a\u00020\u00132\b\b\u0002\u0010\u0014\u001a\u00020\u00152\b\b\u0002\u0010\u0016\u001a\u00020\u00152\b\b\u0002\u0010\u0017\u001a\u00020\u000528\b\n\u0010\u0018\u001a2\b\u0001\u0012\u0006\u0012\u0004\u0018\u00010\u0005\u0012\u001a\u0012\u0018\u0012\u0014\u0012\u0012\u0012\f\u0012\n\u0012\u0004\u0012\u0002H\u0002\u0018\u00010\u001b\u0018\u00010\u001a0\u0019\u0012\u0006\u0012\u0004\u0018\u00010\u001c\u0018\u00010\u000eH\u0087\b\u00f8\u0001\u0000\u00f8\u0001\u0001\u00f8\u0001\u0001\u00a2\u0006\u0002\u0010\u001d\u0082\u0002\u000b\n\u0005\b\u009920\u0001\n\u0002\b\u0019\u00a8\u0006\u001e"}, d2 = {"ItemsPage", "", "T", "Lit/vfsfitvnm/innertube/Innertube$Item;", "tag", "", "headerContent", "Lkotlin/Function1;", "Lkotlin/Function0;", "Landroidx/compose/runtime/Composable;", "Lkotlin/ParameterName;", "name", "textButton", "itemContent", "Lkotlin/Function2;", "Landroidx/compose/foundation/lazy/LazyItemScope;", "Lkotlin/ExtensionFunctionType;", "itemPlaceholderContent", "modifier", "Landroidx/compose/ui/Modifier;", "initialPlaceholderCount", "", "continuationPlaceholderCount", "emptyItemsText", "itemsPageProvider", "Lkotlin/coroutines/Continuation;", "Lkotlin/Result;", "Lit/vfsfitvnm/innertube/Innertube$ItemsPage;", "", "(Ljava/lang/String;Lkotlin/jvm/functions/Function1;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;IILjava/lang/String;Lkotlin/jvm/functions/Function2;)V", "app_release"})
+public final class ItemsPageKt {
+    
+    @androidx.compose.runtime.Composable
+    @androidx.compose.animation.ExperimentalAnimationApi
+    public static final <T extends it.vfsfitvnm.innertube.Innertube.Item>void ItemsPage(@org.jetbrains.annotations.NotNull
+    java.lang.String tag, @org.jetbrains.annotations.NotNull
+    kotlin.jvm.functions.Function1<? super kotlin.jvm.functions.Function0<kotlin.Unit>, kotlin.Unit> headerContent, @org.jetbrains.annotations.NotNull
+    kotlin.jvm.functions.Function2<? super androidx.compose.foundation.lazy.LazyItemScope, ? super T, kotlin.Unit> itemContent, @org.jetbrains.annotations.NotNull
+    kotlin.jvm.functions.Function0<kotlin.Unit> itemPlaceholderContent, @org.jetbrains.annotations.NotNull
+    androidx.compose.ui.Modifier modifier, int initialPlaceholderCount, int continuationPlaceholderCount, @org.jetbrains.annotations.NotNull
+    java.lang.String emptyItemsText, @org.jetbrains.annotations.Nullable
+    kotlin.jvm.functions.Function2<? super java.lang.String, ? super kotlin.coroutines.Continuation<? super kotlin.Result<it.vfsfitvnm.innertube.Innertube.ItemsPage<T>>>, ? extends java.lang.Object> itemsPageProvider) {
+    }
+}

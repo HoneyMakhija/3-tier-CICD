@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "it.vfsfitvnm.compose.routing.compose-routing-merged_res-32:/layout-v21/notification_action.xml",
+        "source": "it.vfsfitvnm.compose.routing.compose-routing-core-1.8.0-15:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.compose.routing.compose-routing-merged_res-32:/layout-v21/notification_template_icon_group.xml",
+        "source": "it.vfsfitvnm.compose.routing.compose-routing-core-1.8.0-15:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.compose.routing.compose-routing-merged_res-32:/layout-v21/notification_action_tombstone.xml",
+        "source": "it.vfsfitvnm.compose.routing.compose-routing-core-1.8.0-15:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.compose.routing.compose-routing-merged_res-32:/layout-v21/notification_template_custom_big.xml",
+        "source": "it.vfsfitvnm.compose.routing.compose-routing-core-1.8.0-15:/layout-v21/notification_template_custom_big.xml"
+    }
+]

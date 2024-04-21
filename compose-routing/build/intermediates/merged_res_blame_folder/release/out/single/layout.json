@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "it.vfsfitvnm.compose.routing.compose-routing-merged_res-32:/layout/notification_template_part_chronometer.xml",
+        "source": "it.vfsfitvnm.compose.routing.compose-routing-core-1.8.0-15:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.compose.routing.compose-routing-merged_res-32:/layout/custom_dialog.xml",
+        "source": "it.vfsfitvnm.compose.routing.compose-routing-core-1.8.0-15:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.compose.routing.compose-routing-merged_res-32:/layout/notification_template_part_time.xml",
+        "source": "it.vfsfitvnm.compose.routing.compose-routing-core-1.8.0-15:/layout/notification_template_part_time.xml"
+    }
+]

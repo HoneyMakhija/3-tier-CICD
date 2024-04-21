@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "it.vfsfitvnm.compose.persist.compose-persist-merged_res-31:/layout/notification_template_part_time.xml",
+        "source": "it.vfsfitvnm.compose.persist.compose-persist-core-1.8.0-14:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.compose.persist.compose-persist-merged_res-31:/layout/notification_template_part_chronometer.xml",
+        "source": "it.vfsfitvnm.compose.persist.compose-persist-core-1.8.0-14:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "it.vfsfitvnm.compose.persist.compose-persist-merged_res-31:/layout/custom_dialog.xml",
+        "source": "it.vfsfitvnm.compose.persist.compose-persist-core-1.8.0-14:/layout/custom_dialog.xml"
+    }
+]

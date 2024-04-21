@@ -1,0 +1,9 @@
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class androidx.profileinstaller.ProfileInstallReceiver { <init>(); }
+-keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
+-keep class androidx.startup.InitializationProvider { <init>(); }
+-keep class it.vfsfitvnm.vimusic.MainActivity { <init>(); }
+-keep class it.vfsfitvnm.vimusic.MainApplication { <init>(); }
+-keep class it.vfsfitvnm.vimusic.service.PlayerMediaBrowserService { <init>(); }
+-keep class it.vfsfitvnm.vimusic.service.PlayerService { <init>(); }
+-keep class it.vfsfitvnm.vimusic.service.PlayerService$NotificationDismissReceiver { <init>(); }

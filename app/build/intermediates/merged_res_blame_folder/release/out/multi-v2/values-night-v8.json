@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "it.vfsfitvnm.vimusic.app-mergeReleaseResources-39:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/vishalsolanki/code/latest/ViMusic/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "1,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "16,773",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "767,962"
+                    },
+                    "to": {
+                        "startLines": "2,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,811",
+                        "endLines": "13,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "806,1000"
+                    }
+                }
+            ]
+        }
+    ]
+}

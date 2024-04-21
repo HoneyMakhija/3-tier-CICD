@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/vishalsolanki/code/latest/ViMusic/compose-reordering"
+    name=":compose-reordering"
+    type="LIBRARY"
+    maven="ViMusic:compose-reordering:"
+    agpVersion="8.0.2"
+    buildFolder="build"
+    bootClassPath="/Users/vishalsolanki/Library/Android/sdk/platforms/android-33/android.jar:/Users/vishalsolanki/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>
